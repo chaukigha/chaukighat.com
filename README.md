@@ -10,7 +10,7 @@
 	  <div id="c"></div>
 	  <div id="c"></div>
 	</div>
-	<div id="d"><img id="img1" src="a/flag.gif"></div>
+	<div id="d"><img id="img1" src="http://www.nepal.at/gfx/flagofnepal-right_v2.gif"></div>
 	<h1 onclick="a1()" id="manu1"style="transition:300ms">HOME</h1>
 	<h1 onclick="a1()"id="manu2"style="transition:400ms">IMAGES</h1>
 	<h1 onclick="a1()"id="manu3"style="transition:500ms">AUDIOS</h1>
