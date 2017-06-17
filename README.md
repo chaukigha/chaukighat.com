@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta content='user-scalable=0' name='viewport' />
-<script src="//rajukumargangai.000webhostapp.com/s.js"></script>
 <link href="styles.css" rel="stylesheet">
 </head>
 <body>
@@ -65,7 +64,6 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
-	<script src="scripts.js"></script>
 	</body>
 	<script>
 	function a(){
@@ -115,6 +113,6 @@
  setInterval(function (){
 	 document.getElementById("b").click();
  },1000);
-	</script>
+</script>
 	
 </html>
