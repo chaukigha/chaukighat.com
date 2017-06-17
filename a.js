@@ -43,5 +43,5 @@ function a(){
 	 document.getElementById("manu6").style.marginLeft="-110%";
  }
  setInterval(function (){
-	 document.getElementById(").click();
+	 document.getElementById("").click();
  },1000);
