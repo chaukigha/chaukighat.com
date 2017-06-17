@@ -1,9 +1,9 @@
 <html>
-  <title>chukighat.com</title>
+<head>
 	<meta content='user-scalable=0' name='viewport' />
     <link href="css/styles.css" rel="stylesheet">
- 
-  <body>
+    </head>
+ <body>
 	<div id="a"><h1 id="h11">Chaukighat.com</h1></div>
 	<div id="b"onclick="a();b();c();d();e();f()">
 	  <div id="c"></div>
