@@ -60,6 +60,6 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
-	<script src="Chaukighat-team/scripts.js"></script>
+	<script src="scripts.js"></script>
   </body>
 </html>
