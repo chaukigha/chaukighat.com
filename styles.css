@@ -58,6 +58,7 @@ h1{font-family: "Times New Roman", Times, serif;}
   color:transparent;
   text-shadow:2px 2px 4px white,
   0 0 0 black;
+  border:transparent;
 }
 
 #manu1,#manu2,#manu3,#manu4,#manu5,#manu6 {
