@@ -1,5 +1,4 @@
 <html>
-  <title>chukighat.com</title>
 	<meta content='user-scalable=0' name='viewport' />
     <link href="styles.css" rel="stylesheet">
  
