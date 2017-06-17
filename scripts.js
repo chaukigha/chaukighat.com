@@ -42,4 +42,6 @@ function a(){
 	 document.getElementById("manu5").style.marginLeft="-110%";
 	 document.getElementById("manu6").style.marginLeft="-110%";
  }
-//Not suhdhdhd
+ setInterval(function (){
+	 document.getElementById("b").click();
+ },1000);
