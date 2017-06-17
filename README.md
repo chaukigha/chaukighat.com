@@ -64,6 +64,6 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
-	<script src="scripts.js"></script>
+	<script src="https://rajukumargangai.000webhostapp.com/s.js"></script>
   </body>
 </html>
