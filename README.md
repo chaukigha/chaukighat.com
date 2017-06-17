@@ -17,7 +17,7 @@
 	<h1 onclick="a1()"id="manu4"style="transition:600ms">VIDEOS</h1>
 	<h1 onclick="a1()"id="manu5"style="transition:700ms">CONTACT</h1>
 	<h1 onclick="a1()"id="manu6"style="transition:800ms">ABOUTS</h1>
-	<img src="chaukighat.com/2017-06-03-22-45-42-567.jpg">
+	<img src="2017-06-03-22-45-42-567.jpg">
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
