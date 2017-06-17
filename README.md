@@ -2,7 +2,7 @@
 <head>
 <meta content='user-scalable=0' name='viewport' />
 <link href="styles.css" rel="stylesheet">
-<script src="https://rajukumargangai.000webhostapp.com/s.js"></script>
+<script src="scripts.js"></script>
 </head>
 <body>
 <div id="a">
