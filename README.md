@@ -1,8 +1,9 @@
 <html>
+<head>
 	<meta content='user-scalable=0' name='viewport' />
     <link href="styles.css" rel="stylesheet">
- 
-  <body>
+ </head>
+    <body>
 	<div id="a">
 	<h1 id="h11">Chaukighat.com</h1>
 	</div>
