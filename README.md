@@ -5,7 +5,7 @@
     </head>
  <body>
 	<div id="a"><h1 id="h11">Chaukighat.com</h1></div>
-	<div id="b"onclick="a();b();c();d();e();f()">
+	<div id="b" onclick=" a();b();c();d();e();f()">
 	  <div id="c"></div>
 	  <div id="c"></div>
 	  <div id="c"></div>
