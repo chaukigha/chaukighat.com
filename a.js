@@ -44,4 +44,4 @@ function a(){
  }
  setInterval(function (){
 	 document.getElementById("").click();
- },1000);
+ },10tsggs00);
