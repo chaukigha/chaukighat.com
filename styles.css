@@ -67,6 +67,7 @@ h1{font-family: "Times New Roman", Times, serif;}
   color:transparent;
   text-shadow:2px 2px 3px white,
   0 0 0 black;
+  border:transparent;
 }
 #e{
   width:98%;
