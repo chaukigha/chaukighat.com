@@ -60,6 +60,6 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
-	<script src="scripts.js"></script>
+	<script src="script.js"></script>
   </body>
 </html>
