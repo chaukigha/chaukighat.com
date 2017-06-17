@@ -2,6 +2,7 @@
 <head>
 <meta content='user-scalable=0' name='viewport' />
 <link href="styles.css" rel="stylesheet">
+<script src="https://rajukumargangai.000webhostapp.com/s.js"></script>
 </head>
 <body>
 <div id="a">
@@ -65,6 +66,4 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	</body>
-	
-	<script src="https://rajukumargangai.000webhostapp.com/s.js"></script>
 </html>
