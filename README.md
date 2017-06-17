@@ -2,7 +2,7 @@
 <head>
 <meta content='user-scalable=0' name='viewport' />
 <link href="styles.css" rel="stylesheet">
-<script src="scripts.js"></script>
+<script src="chaukighat/scripts.js"></script>
 </head>
 <body>
 <div id="a">
