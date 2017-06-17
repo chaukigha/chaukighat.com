@@ -65,8 +65,8 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	</body>
-	<script>
-	function a(){
+<script>
+function a(){
  x=document.getElementById("manu1");
  if(x.style.marginLeft==="14.5%")
  {x.style.marginLeft="-110%";}
@@ -110,9 +110,12 @@
 	 document.getElementById("manu5").style.marginLeft="-110%";
 	 document.getElementById("manu6").style.marginLeft="-110%";
  }
+ 
+ 
  setInterval(function (){
 	 document.getElementById("b").click();
  },1000);
+ 
 </script>
 	
 </html>
