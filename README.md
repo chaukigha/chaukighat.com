@@ -2,7 +2,6 @@
 <head>
 <meta content='user-scalable=0' name='viewport' />
 <link href="styles.css" rel="stylesheet">
-<script src="chaukighat/scripts.js"></script>
 </head>
 <body>
 <div id="a">
@@ -66,4 +65,6 @@
 	<h1>tahsggs</h1>
 	<h1>tahsggs</h1>
 	</body>
+	<script src="chaukighat/scripts.js"></script>
+	
 </html>
