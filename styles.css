@@ -61,7 +61,7 @@ h1{font-family: "Times New Roman", Times, serif;}
   border:transparent;
 }
 
-#manu1;#manu2;#manu3;#manu4;#manu5;#manu6{
+#manu1,#manu2,#manu3,#manu4,#manu5,#manu6{
   font-size:80px;
   left:20px;
   margin-top:20px;
