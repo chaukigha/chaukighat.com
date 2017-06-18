@@ -17,7 +17,7 @@
 </div>
 <h2 onclick=" a1()" id="manu1" style="transition:300ms;">&nbsp;&nbsp;&nbsp;&nbsp;HOME</h2>
 <h2 onclick=" a1()" id="manu2" style="transition:400ms;">&nbsp;&nbsp;&nbsp;&nbsp;IMAGES</h2>
-<h2 onclick=" a1()" id="manu3" style="transition:500ms;">&nbsp;&nbsp;AUDIOS</h2>
+<h2 onclick=" a1()" id="manu3" style="transition:500ms;">&nbsp;&nbsp;&nbsp;&nbsp;AUDIOS</h2>
 <h2 onclick=" a1()" id="manu4" style="transition:600ms;">&nbsp;&nbsp;&nbsp;&nbsp;VIDEOS</h2>
 <h2 onclick=" a1()" id="manu5" style="transition:700ms;">&nbsp;&nbsp;&nbsp;&nbsp;CONTACT</h2>
 <h2 onclick=" a1()" id="manu6" style="transition:800ms;">&nbsp;&nbsp;&nbsp;&nbsp;ABOUT</h2>
