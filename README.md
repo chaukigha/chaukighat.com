@@ -15,12 +15,12 @@
 <div id="d">
 <img id="img1" src="http://www.nepal.at/gfx/flagofnepal-right_v2.gif">
 </div>
-<h1 onclick=" a1()" id="manu1" style="transition:300ms;">HOME</h1>
-<h1 onclick=" a1()" id="manu2" style="transition:400ms;">IMAGES</h1>
-<h1 onclick=" a1()" id="manu3" style="transition:500ms;">AUDIOS</h1>
-<h1 onclick=" a1()" id="manu4" style="transition:600ms;">VIDEOS</h1>
-<h1 onclick=" a1()" id="manu5" style="transition:700ms;">CONTACT</h1>
-<h1 onclick=" a1()" id="manu6" style="transition:800ms;">ABOUTS</h1>
+<h2 onclick=" a1()" id="manu1" style="transition:300ms;">HOME</h2>
+<h2 onclick=" a1()" id="manu2" style="transition:400ms;">IMAGES</h2>
+<h2 onclick=" a1()" id="manu3" style="transition:500ms;">AUDIOS</h2>
+<h2 onclick=" a1()" id="manu4" style="transition:600ms;">VIDEOS</h2>
+<h2 onclick=" a1()" id="manu5" style="transition:700ms;">CONTACT</h2>
+<h2 onclick=" a1()" id="manu6" style="transition:800ms;">ABOUTS</h2>
 <img src="2017-06-03-22-45-42-567.jpg">
 <h1>tahsggs</h1>
 	<h1>tahsggs</h1>
