@@ -41,5 +41,6 @@ function a(){
 	 document.getElementById("manu4").style.marginLeft="-110%";
 	 document.getElementById("manu5").style.marginLeft="-110%";
 	 document.getElementById("manu6").style.marginLeft="-110%";
+	 document.getElementById("iframe").style.display="block";
  }
  
