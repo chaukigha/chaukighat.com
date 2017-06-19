@@ -21,50 +21,7 @@
 <h2 onclick=" a1()" id="manu4" style="transition:600ms;">&nbsp;&nbsp;&nbsp;&nbsp;VIDEOS</h2>
 <h2 onclick=" a1()" id="manu5" style="transition:700ms;">&nbsp;&nbsp;&nbsp;&nbsp;CONTACT</h2>
 <h2 onclick=" a1()" id="manu6" style="transition:800ms;">&nbsp;&nbsp;&nbsp;&nbsp;ABOUT</h2>
-<img src="2017-06-03-22-45-42-567.jpg">
-<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	<h1>tahsggs</h1>
-	</body>
 <script src="a.js"/>
+<iframe id="iframe" src="https://chaukighat.github.io/pho/"style="width:100%;height:700px;display:none;"></iframe>
 	
 </html>
