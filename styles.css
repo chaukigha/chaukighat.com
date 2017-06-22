@@ -55,7 +55,7 @@ h2{font-family: "Times New Roman", Times, serif;text-aligan:center;}
 #h11{
   font-size:70px;
   margin-left:170px;
-  margin-top:20px;
+  margin-top:5px;
   color:transparent;
   text-shadow:2px 2px 4px white,
   0 0 0 black;
@@ -87,8 +87,8 @@ img{width:100%}
   background:linear-gradient(to top,white 20%,transparent 50%);
   background-color:YellowGreen;
   text-align:center;
-  top:101px;
-  position:fixed;
+  top:100px;
+  position:absolute;
   border-radius:15px;
 }
 #manu2{
@@ -99,8 +99,8 @@ img{width:100%}
   background:linear-gradient(to top,skyblue 20%,transparent 50%);
   background-color:Orange;
   text-align:center;
-  top:212px;
-  position:fixed;
+  top:210px;
+  position:absolute;
   border-radius:15px;
 }
 #manu3{
@@ -111,8 +111,8 @@ img{width:100%}
   background:linear-gradient(to top,yellow 20%,transparent 50%);
   background-color:DarkKhaki;
   text-align:center;
-  top:323px;
-  position:fixed;
+  top:320px;
+  position:absolute;
   border-radius:15px;
 }
 #manu4{
@@ -123,8 +123,8 @@ img{width:100%}
   background:linear-gradient(to top,pink 20%,transparent 50%);
   background-color:HotPink;
   text-align:center;
-  top:434px;
-  position:fixed;
+  top:430px;
+  position:absolute;
   border-radius:15px;
 }
 #manu5{
@@ -135,8 +135,8 @@ img{width:100%}
   background:linear-gradient(to top,red -10%,transparent 50%);
   background-color:Gainsboro;
   text-align:center;
-  top:545px;
-  position:fixed;
+  top:540px;
+  position:absolute;
   border-radius:15px;
 }
 #manu6{
@@ -147,8 +147,8 @@ img{width:100%}
   background:linear-gradient(to top,aqua 20%,transparent 50%);
   background-color:ForestGreen;
   text-align:center;
-  top:656px;
-  position:fixed;
+  top:650px;
+  position:absolute;
   border-radius:15px;
 }
 #manu6:hover,#manu5:hover,#manu6:hover,#manu4:hover,#manu3:hover,#manu2:hover,#manu1:hover{background-color:black;}
