@@ -60,7 +60,7 @@ h2{font-family: "Times New Roman", Times, serif;text-aligan:center;}
   text-shadow:2px 2px 4px white,
   0 0 0 black;
   border:transparent;
-  padding:24px;
+  padding:20px;
 }
 
 #manu1,#manu2,#manu3,#manu4,#manu5,#manu6{
@@ -91,7 +91,7 @@ img{width:100%}
   top:100px;
   position:absolute;
   border-radius:15px;
-  text-decuration:none;
+  text-decoration:none;
 }
 #manu2{
   width:70%;
